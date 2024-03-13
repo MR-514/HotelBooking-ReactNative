@@ -1,0 +1,125 @@
+
+   {
+      "items":[
+         {
+            "desc":"The Ritz-Carlton, Bangalore is centrally located in the heart of Bangalore in close proximity to the finest in shopping, dining and entertainment experiences.",
+            "id":1,
+            "img":"https://i.pinimg.com/originals/89/ed/19/89ed19955eda7286883f5f5ef07905ca.jpg",
+            "name":"The Ritz - Carlton",
+			"type":"Hotel",
+            "price":8500,
+			"rating":3,
+			"location":"99,Residency Road, 560025 Bangalore, India ",
+			"additionalInfo":["Free Cancellation", "No prepayment neeeded - pay at the property"],
+			"rooms": [{
+				"roomId": 1,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://www.kayak.co.in/rimg/himg/a4/18/20/leonardo-2011971-147528945-782160.jpg?width=1366&height=768&crop=true", "https://via.placeholder.com/980x360"]
+				
+			},{
+				"roomId": 2,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cache.marriott.com/content/dam/marriott-renditions/LAXLZ/laxlz-deluxe-queen-3094-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*", "https://via.placeholder.com/980x360"]
+				
+			}],
+			"Facilities":["Free Wifi","Balcony", "24-hour security", "Air conditioning", "Non-smoking rooms", "24-hour front desk", "Concierge service", "Ironing service", "Family rooms", "Laundry" ],
+			"longDesc": " Located in Bangalore, close to UB City Mall, Commercial Street and Brigade Road, The Ritz - Carlton, Bangalore is a picturesque property with a 24-hour front desk and free Wi-Fi throughout the property. Filling the hotel’s entire fifth floor, The Ritz-Carlton Spa, Bangalore offers luxury treatments drawing from Indian and Eastern healing traditions, a salon and swimming pool. Twelve treatment rooms include a VIP suite and two express service rooms."
+         },
+         {
+            "desc":"Stayhome Suites is a sustainable apartment in Bangalore, 3.3 miles from The Forum, Koramangala.",
+            "id":2,
+            "img":"https://cdn.kiwicollection.com/media/room_images/PR004211/xl/004211-06-signature-room.jpg",
+            "name":"Stayhome Suites",
+			"type":"Apartment",
+            "price":6700,
+			"rating":3.5,
+			"location":"1st cross road, Shanbhog Nagappa Layout, Bilekhahalli, 560076 Bangalore, India",
+			"additionalInfo":["Non Refundable"],
+			"rooms": [{
+				"roomId": 3,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/497354340.jpg?k=a5b06932484eb862ad980a6bd4925159d5851ad72ab55da2041d07b2321d9fc6&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			},{
+				"roomId": 4,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/497357630.jpg?k=20832b3caa5aca85cfa783a17e3ee35451879e831e0b320139d6d941ff9f1a39&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			}],
+			"Facilities":["Free Wifi", "Balcony", "24-hour security", "Air conditioning", "Non-smoking rooms", "24-hour front desk", "Concierge service", "Ironing service", "Family rooms", "Laundry" ],
+			"longDesc": "This property encourages guests to embrace nature with its eco-friendly arrangements. This apartment features air-conditioned accommodations with a balcony. The apartment also provides free Wifi, free private parking, and facilities for disabled guests."
+         },
+         {
+            "desc":"Hoodo Zoe - Hebbal Bangalore Apartments enjoys a location in Bangalore, 5.6 miles from Indian Institute of Science, Bangalore and 5.9 miles from Yeswanthpur Train Station.",
+            "id":3,
+            "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/6a/de/0b/kempinski-hotel-guiyang.jpg?w=1200&h=-1&s=1",
+            "name":"Hoodo Zoe - Hebbal Bangalore Apartments",
+			"type":"Apartment",
+            "price":3400,
+			"rating":4,
+			"location":"112 1st Cross Road, Sonnappa Layout, 560024 Bangalore, India",
+			"additionalInfo":["Free Cancellation", "No prepayment neeeded - pay at the property"],
+			"rooms": [{
+				"roomId": 5,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/471934707.jpg?k=8c9d5abafb3403dafb4e760e162dfcc3c36462404d394bd32bc3b293b9581bbc&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			},{
+				"roomId": 6,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/471934766.jpg?k=c4ff2979816ab80f0319742f5b0a977995a4fd43241d5671d9d507d1def38294&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			}],
+			"Facilities":["Free Wifi","Balcony", "24-hour security", "Air conditioning", "Non-smoking rooms", "24-hour front desk", "Concierge service", "Ironing service", "Family rooms", "Laundry" ],
+			"longDesc": "This property offers access to a balcony, free private parking, and free Wifi. Commercial Street is 6.9 miles from the apartment, and Chinnaswamy Stadium is 6.9 miles away."
+         },
+         {
+            "desc":"Located between the international airport and the impressive Nandi Hills in Bangalore, JW Marriott Hotel Bengaluru Prestige Golfshire Resort & Spa is a fully integrated luxury resort.",
+            "id":4,
+            "img":"https://pix10.agoda.net/hotelImages/718/71817/71817_17120111540060107349.jpg?ca=6&ce=1&s=1024x768",
+            "name":"JW Marriott Hotel Bengaluru ",
+			"type":"Resort",
+            "price":9700,
+			"rating":4.5,
+			"location":"Nandi Hills Road, Karahalli Post, Kundana Hobli, Devanahalli Taluk, 562164 Bangalore, India",
+			"additionalInfo":["Free Cancellation","No prepayment neeeded - pay at the property"],
+			"rooms": [{
+				"roomId": 7,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/463627226.jpg?k=9dd9ffde91b4bcabe6a4d8ff631280b597fce7d41579ea8483691581d0398482&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			},{
+				"roomId": 8,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/3b/e3/63/jw-marriott-bengaluru.jpg?w=700&h=-1&s=1", "https://via.placeholder.com/980x360"]
+				
+			}],
+			"Facilities":["Balcony", "24-hour security", "Air conditioning", "Non-smoking rooms", "24-hour front desk", "Concierge service", "Ironing service", "Family rooms", "Laundry","Bar" ],
+			"longDesc": "The property overlooks the golf course and offers free private parking, an outdoor swimming pool and a fully equipped fitness center. The property has a pool bar, shared lounge as well as a garden. The accommodations provides a 24-hour front desk, room service and currency exchange."
+         },
+         {
+            "desc":"Vaibhavya Farm is a sustainable villa in Ahmedabad where guests can make the most of the outdoor swimming pool and garden.",
+            "id":5,
+            "img":"https://www.kikijourney.com/wp-content/uploads/2021/08/Sheraton-Xian-North-City-Hotel-1000x666.jpeg",
+            "name":"Vaibhavya Farm",
+            "price":9500,
+			"type":"Villa",
+			"rating":3,
+			"location":"E-60, Prarthna Upvan, Opposite Pleasure Club, Manipur road, Ghuma, 380058 Ahmedabad, India",
+			"additionalInfo":["Non Refundable"],
+			"rooms": [{
+				"roomId": 9,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192778.jpg?k=025b6a389119db05d8814a99ac02dd6a627e2b3bbcbc0e566d6a5abb8f865bb7&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			},{
+				"roomId": 10,
+				"roomFacilities": ["closet", "mirror", "cloth rack", "black out curtains", "child safety socket covers", "TV", "AC" ],
+				"images": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/482192799.jpg?k=8ca2f497d0fd9c05cc276b29a67e24235abb4e6ce24b8196cad0aca69b9b3593&o=&hp=1", "https://via.placeholder.com/980x360"]
+				
+			}],
+			"Facilities":["Balcony", "24-hour security", "Air conditioning", "Non-smoking rooms", "24-hour front desk", "Concierge service", "Ironing service", "Family rooms", "Laundry" ],
+			"longDesc": "This property offers access to a terrace, free private parking, and free Wifi. The accommodation offers full-day security and a concierge service for guests.This villa includes 6 bedrooms, 2 living rooms and a TV, an equipped kitchen with a dining area, and 7 bathrooms with a shower and a washing machine. The villa offers bed linen, towels, and daily room service."
+         }
+      ]
+   }
